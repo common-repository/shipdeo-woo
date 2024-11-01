@@ -1,0 +1,1 @@
+<a href="<?php echo $link; ?>" target="_blank"><?php echo $airwaybill; ?></a>
